@@ -19,5 +19,4 @@ the devil presents you with a deal, you get 100 million dollars, electricity, an
 
 - no coins if you lose
 - coins depending on the time picked, ( 10min: 10 coins, 20min: 20 coins, 1hr: 100 coins )
--
 
